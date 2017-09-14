@@ -1,4 +1,4 @@
-# **Commercial Agreement v. 1.0**
+# **Commercial License Agreement v. 1.0**
 
 This Commercial Agreement adopts all the terms and conditions of the **"Creative
 Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License"**
