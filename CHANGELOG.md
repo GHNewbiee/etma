@@ -1,4 +1,4 @@
-# ETMA Basis - Changelog
+# ETMA - Changelog
 
 ## 0.0.0
 
