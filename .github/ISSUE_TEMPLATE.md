@@ -30,3 +30,7 @@ Then, **please include** in your report:
 Then, **please include** in your suggestion:
 - :bulb: As much detail as possible for what we should add and why it's important to ETMA, and
 - :thought_balloon: Relevant links to prior art, screenshots, or live demos whenever possible
+
+:earth_africa:
+
+:blue_heart: Thanks the community for the content. Of course, it's under MIT License.
