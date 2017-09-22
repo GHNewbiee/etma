@@ -34,7 +34,7 @@ There are a few guidelines that contributors need to follow so that we have a ch
 The project uses [.editorconfig](http://editorconfig.org/) to define the coding style of each file. We recommend that you install the Editor Config extension for your preferred IDE.
 
 ## License
-By contributing your code to the GHNewbiee/etma GitHub repository, you agree to license your contribution under the  license.
+By contributing your code to the GHNewbiee/etma GitHub repository, you agree to license your contribution under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 
 
