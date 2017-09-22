@@ -25,3 +25,7 @@ Describe the big picture of your changes here to communicate to the maintainers 
 ## Screenshots (if appropriate) or codepen:
 
 ## Testing Done
+
+:earth_africa:
+
+:blue_heart: Thanks the community for the content. Of course, it's under MIT License.
