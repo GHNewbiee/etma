@@ -28,4 +28,4 @@ Describe the big picture of your changes here to communicate to the maintainers 
 
 :earth_africa:
 
-:blue_heart: Thanks the community for the content. Of course, it's under MIT License.
+:blue_heart: Many thanks to the community for the content of the current page which is obviously under MIT License.
