@@ -1,14 +1,18 @@
-# How to contribute
+# Contributing to ETMA
 If you're reading this, you're awesome! :kissing_heart:
 
 We really thank you for helping us make this project great and being a part of the ETMA community!
 
+Please take a moment to review this document in order to make the contribution process easy and effective for everyone involved.
+
+Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open source project. In return, they should reciprocate that respect in addressing your issue or assessing patches and features.
+
 ## Helping Out
 There are several ways to help us out further improve and develop the project:
-- :computer: **[Run](https://github.com/GHNewbiee/etma/documentation/HowTo_Run)** the application into your system and **[tell]()** us your opinion or thoughts about it; before running it, **please consider** the [Commercial License Agreement](https://github.com/GHNewbiee/etma/COMMERCIAL_LICENSE_AGREEMENT.md)
-- :earth_africa: **[Translate](https://github.com/GHNewbiee/etma/documentation/HowTo_Translate)** the appropriate [files]() into your native language if such a translation has not been available yet
-- :clipboard: **[Create](https://github.com/GHNewbiee/etma/issues/new)** a new [issue](https://github.com/GHNewbiee/etma/.github/ISSUE_TEMPLATE.md) on GitHub, if you want to suggest a [new feature](https://github.com/GHNewbiee/etma/.github/ISSUE_TEMPLATE.md#1) or you have found a [bug](https://github.com/GHNewbiee/etma/.github/ISSUE_TEMPLATE.md#2)
-- :book: **Enrich** the [documentation](https://github.com/GHNewbiee/etma/documentation)
+- :computer: **[Run](https://github.com/GHNewbiee/etma/blob/master/documentation/HowTo_Run)** the application into your system and **[tell]()** us your opinion or thoughts about it; before running it, **please consider** the [Commercial License Agreement](https://github.com/GHNewbiee/etma/blob/master/COMMERCIAL_LICENSE_AGREEMENT.md)
+- :earth_africa: **[Translate](https://github.com/GHNewbiee/etma/blob/master/documentation/HowTo_Translate)** the appropriate [files]() into your native language if such a translation has not been available yet
+- :clipboard: **[Create](https://github.com/GHNewbiee/etma/issues/new)** a new [issue](https://github.com/GHNewbiee/etma/blob/master/.github/ISSUE_TEMPLATE.md) on GitHub, if you want to suggest a [new feature](https://github.com/GHNewbiee/etma/blob/master/.github/ISSUE_TEMPLATE.md#1) or you have found a [bug](https://github.com/GHNewbiee/etma/blob/master/.github/ISSUE_TEMPLATE.md#2)
+- :book: **Enrich** the [documentation](https://github.com/GHNewbiee/etma/tree/master/documentation)
 - :pencil: **Write** test cases or **provide** examples for open bug issues
 - :pencil: **Write** patches for open bug/feature issues, preferably with test cases included, and finally
 - :beers: **Join** the core team
@@ -47,7 +51,7 @@ All stable releases are tagged ([view tags](https://github.com/GHNewbiee/etma/ta
 We will do our best to keep `develop` in good shape, with tests passing at all times. But in order to move fast, we will make API changes that your application might not be compatible with.
 
 ## Getting Started with 
-- **[Create](https://github.com/GHNewbiee/etma/issues/new)** a new [issue](https://github.com/GHNewbiee/etma/.github/ISSUE_TEMPLATE.md), assuming one does not already exist. **Please**,
+- **[Create](https://github.com/GHNewbiee/etma/issues/new)** a new [issue](https://github.com/GHNewbiee/etma/blob/master/.github/ISSUE_TEMPLATE.md), assuming one does not already exist. **Please**,
   * :no_entry: don't group multiple topics into one issue; on the contrary, each topic should be on its own issue, and
   * :no_entry: don't just comment '+1' on an issue. It spams the maintainers and doesn't help move the issue forward.
 - Make sure you fill in the earliest version that you know has the issue.
@@ -75,7 +79,7 @@ The project uses [.editorconfig](http://editorconfig.org/) to define the coding 
 
 
 ## Roadmap
-To get a sense of where ETMA is heading, or for ideas on where you could contribute, take a look at the [ROADMAP](https://github.com/GHNewbiee/etma/blob/v1-beta/ROADMAP.md).
+To get a sense of where ETMA is heading, or for ideas on where you could contribute, take a look at the [ROADMAP](https://github.com/GHNewbiee/etma/blob/develop/ROADMAP.md).
 
 ## License
 By contributing your code to the GHNewbiee/etma GitHub repository, you agree to license your contribution under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
