@@ -1,14 +1,16 @@
 # How to contribute
-If you're reading this, you're awesome! :kissing_heart: Thank you for helping us make this project great and being a part of the ETMA community!
+If you're reading this, you're awesome! :kissing_heart:
+
+We really thank you for helping us make this project great and being a part of the ETMA community!
 
 ## Helping Out
 There are several ways to help us out further improve and develop the project:
 - :computer: **[Run](https://github.com/GHNewbiee/etma/documentation/HowTo_Run)** the application into your system and **[tell]()** us your opinion or thoughts about it; before running it, **please consider** the [Commercial License Agreement](https://github.com/GHNewbiee/etma/COMMERCIAL_LICENSE_AGREEMENT.md)
 - :earth_africa: **[Translate](https://github.com/GHNewbiee/etma/documentation/HowTo_Translate)** the appropriate [files]() into your native language if such a translation has not been available yet
-- :memo: **[Create](https://github.com/GHNewbiee/etma/issues/new)** a new [issue](https://github.com/GHNewbiee/etma/.github/ISSUE_TEMPLATE.md) on GitHub, if you want to suggest a [new feature](https://github.com/GHNewbiee/etma/.github/ISSUE_TEMPLATE.md#1) or you have found a [bug](https://github.com/GHNewbiee/etma/.github/ISSUE_TEMPLATE.md#2)
+- :clipboard: **[Create](https://github.com/GHNewbiee/etma/issues/new)** a new [issue](https://github.com/GHNewbiee/etma/.github/ISSUE_TEMPLATE.md) on GitHub, if you want to suggest a [new feature](https://github.com/GHNewbiee/etma/.github/ISSUE_TEMPLATE.md#1) or you have found a [bug](https://github.com/GHNewbiee/etma/.github/ISSUE_TEMPLATE.md#2)
 - :book: **Enrich** the [documentation](https://github.com/GHNewbiee/etma/documentation)
-- :clipboard: **Write** test cases or **provide** examples for open bug issues
-- :clipboard: **Write** patches for open bug/feature issues, preferably with test cases included, and finally
+- :pencil: **Write** test cases or **provide** examples for open bug issues
+- :pencil: **Write** patches for open bug/feature issues, preferably with test cases included, and finally
 - :beers: **Join** the core team
 
 
