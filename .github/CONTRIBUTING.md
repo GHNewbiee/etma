@@ -3,31 +3,30 @@ If you're reading this, you're awesome! :kissing_heart:
 
 We really thank you for helping us make this project great and being a part of the ETMA community!
 
-Please take a moment to review this document in order to make the contribution process easy and effective for everyone involved.
+**Please** take a moment to review this document in order to make the contribution process easy and effective for everyone involved.
 
 Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open source project. In return, they should reciprocate that respect in addressing your issue or assessing patches and features.
 
 ## Helping Out
 There are several ways to help us out further improve and develop the project:
-- :computer: **[Run](https://github.com/GHNewbiee/etma/blob/master/documentation/HowTo_Run)** the application into your system and **[tell]()** us your opinion or thoughts about it; before running it, **please consider** the [Commercial License Agreement](https://github.com/GHNewbiee/etma/blob/master/COMMERCIAL_LICENSE_AGREEMENT.md)
-- :earth_africa: **[Translate](https://github.com/GHNewbiee/etma/blob/master/documentation/HowTo_Translate)** the appropriate [files]() into your native language if such a translation has not been available yet
+- :computer: **[Run](https://github.com/GHNewbiee/etma/blob/master/documentation/how_to_run.md)** the application into your system and **[tell]()** us your opinion or thoughts about it; before running it, **please consider** the [Commercial License Agreement](https://github.com/GHNewbiee/etma/blob/master/COMMERCIAL_LICENSE_AGREEMENT.md)
+- :earth_africa: **[Translate](https://github.com/GHNewbiee/etma/blob/master/documentation/how_to_translate.md)** the appropriate [files]() into your native language if such a translation has not been available yet
 - :clipboard: **[Create](https://github.com/GHNewbiee/etma/issues/new)** a new [issue](https://github.com/GHNewbiee/etma/blob/master/.github/ISSUE_TEMPLATE.md) on GitHub, if you want to suggest a [new feature](https://github.com/GHNewbiee/etma/blob/master/.github/ISSUE_TEMPLATE.md#1) or you have found a [bug](https://github.com/GHNewbiee/etma/blob/master/.github/ISSUE_TEMPLATE.md#2)
 - :book: **Enrich** the [documentation](https://github.com/GHNewbiee/etma/tree/master/documentation)
 - :pencil: **Write** test cases or **provide** examples for open bug issues
 - :pencil: **Write** patches for open bug/feature issues, preferably with test cases included, and finally
 - :beers: **Join** the core team
 
-
-There are as well a few guidelines that contributors need to follow so that we have a chance of keeping on top of things.
-
 ## Asking Questions or Telling Opinions & Thoughts
-For how-to questions, opinions and thoughts, **please use** :
+For how-to questions, opinions and thoughts, **please**
+
+- :no_entry: **DO NOT CREATE** GitHub Issues
+
+but **USE** some of the following means:
 - [StackOverflow](http://stackoverflow.com/questions/tagged/etma) - tag "etma" is used for tagging questions
 - IRC - channel "" on 
 - Slack - channel "", or
 - [Gitter](https://gitter.im/.../etma) chat/channel
-
-instead of GitHub Issues.
 
 ## Coding style
 Please follow the coding style of the current code base. ETMA uses eslint, so if possible, enable linting in your editor to get realtime feedback. The linting rules are also run when Webpack recompiles your changes, and can be run manually with `yarn lint`.
@@ -42,7 +41,7 @@ Finally, when you submit a pull request, they are run again by Circle CI, but ho
 ## GitHub Basic
 - Run over [GitHub Help](https://help.github.com/) to familiarize yourself with its features and operation
 - Read each time the excerpt you are interested in
-- [Sign up](https://github.com/signup/free) for an [account](https://help.github.com/articles/signing-up-for-a-new-github-account)
+- [Sign up](https://github.com/join) for an [account](https://help.github.com/articles/signing-up-for-a-new-github-account)
 
 ## Branch Structure
 All stable releases are tagged ([view tags](https://github.com/GHNewbiee/etma/tags)). At any given time, `develop` represents the latest development version of the application. Patches or hotfix releases are prepared on an independent branch.
